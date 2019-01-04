@@ -33,6 +33,6 @@ fcc HTML & CSS projects: [code](https://github.com/colevandersWands/fcc-html-pro
 
 html/css replit link
 
-live gh-pages link
+[live gh-pages link](https://colevanderswands.github.io/predone/)
 
 
