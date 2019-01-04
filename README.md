@@ -27,5 +27,12 @@ here is my parter pull-request project for the precourse
 
 fcc HTML & CSS projects: [code](https://github.com/colevandersWands/fcc-html-projects/tree/master), [live](https://colevanderswands.github.io/fcc-html-projects/)  
 
+---
+
+## final project
+
+html/css replit link
+
+live gh-pages link
 
 
