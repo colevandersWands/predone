@@ -18,6 +18,8 @@ here is my parter pull-request project for the precourse
 (screenshot of finishing _basics_ and _es6_)  
 
 [my consolio](https://repl.it/@colevandersWands/consolio)  
+* considering the best way to shift this project to css in console.logs
+* would need to move this after html & css?
 
 ---
 
