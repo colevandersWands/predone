@@ -17,15 +17,11 @@ here is my parter pull-request project for the precourse
 
 (screenshot of finishing _basics_ and _es6_)  
 
-[my consolio](https://repl.it/@colevandersWands/consolio)  
-
 ---
 
 ## HTML & CSS
 
-(screenshot of finishing the html & css section)
-
-fcc HTML & CSS projects: [code](https://github.com/colevandersWands/fcc-html-projects/tree/master), [live](https://colevanderswands.github.io/fcc-html-projects/)  
+(screenshot of finishing the html & css section) 
 
 ---
 
